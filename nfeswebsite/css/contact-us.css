@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.contact-us h2{
+    background: rgb(175, 43, 43);
+    color: white;
+}
+
+.contact-us p {
+    margin-top: 60px;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 4.5mm
+}
+
+

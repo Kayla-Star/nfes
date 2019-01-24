@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#home-section {
+    background: url(../img/alphabet-class-conceptual-301926.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+
+#home-section .dark-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 782px;
+    background:rgba(0,0,0,0.7);
+}
+
+#home-section h1{ 
+    margin-top: 300px;
+}
+
+#home-section h5{ 
+    margin-top: 25px;
+}
+
+/* NAV MEGA MENU */
+
+.mega-menu {
+    width: 700px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.mega-menu a {
+    text-decoration: none;
+    color: rgb(187, 37, 37);
+}
+
+.mega-menu .sub-menu-heading {
+    color: red;
+}
+
+nav h1 {
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.nav-link {
+    font-size: 19px;
+}
+
+.navbar {
+    border-bottom: #a01b1b 3px solid;
+}
+
+/* BUTTONS */
+
+.btn-outline-danger {
+    margin-top: 60px;
+}
+
+
